@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+
+    <string name="bmi_calculator">BMI Calculator</string>
+
+
+
+    <string name="gender_prompt">Choose a gender</string>
+
+    <string-array name="gender_array">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string name="calculateBMIButton">Calculate BMI</string>
+
+
+    <string name="overweight">Overweight</string>
+    <string name="normal">Normal</string>
+    <string name="underweight">Underweight</string>
+
+</resources>
